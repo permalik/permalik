@@ -7,8 +7,11 @@
           color: gold;
         }
         .container {
+          width: 100%;
           display: flex;
-          flex-flow: row nowrap;
+          flex-direction: row;
+          justify-content: space-between;
+          align-items: center;
         }
         .subcontainer {
           display: flex;
