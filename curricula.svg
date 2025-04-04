@@ -2,6 +2,13 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        .wrapper {
+          padding: 0.5rem;
+          border-style: none;
+          border-width: 0;
+          border-radius: 5px;
+          background-color: #262626;
+        }
         h2 {
           font-family: Roboto, sans-serif;
           color: #d4ac0d;
@@ -25,6 +32,7 @@
         }
       </style>
 
+      <div class="wrapper">
       <h2>Curricula</h2>
         <div class="container">
           <div class="subcontainer">
@@ -45,6 +53,7 @@
             <a href="https://github.com/permalik/c_curricula" target="_blank">haskell_curricula</a>
           </div>
         </div>
+      </div>
     </div>
   </foreignObject>
 </svg>
