@@ -1,7 +1,5 @@
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=permalik&size_weight=0.5&count_weight=0.5&theme=apprentice&langs_count=20&custom_title=Languages&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=permalik&repo=c_curricula&theme=apprentice)](https://github.com/permalik/c_curricula)
-
 <!--
 **permalik/permalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
