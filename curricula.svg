@@ -14,6 +14,7 @@
           flex-flow: column nowrap;
         }
         a {
+          display: block;
           color: gold;
         }
       </style>
