@@ -3,6 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         h2 {
+          font-family: Roboto, sans-serif;
           color: gold;
         }
         .container {
@@ -14,6 +15,8 @@
           flex-direction: column;
         }
         a {
+          font-family: Roboto, sans-serif;
+          font-size: 1.25rem;
           color: gold;
         }
       </style>
@@ -21,12 +24,8 @@
       <h2>Curricula</h2>
         <div class="container">
           <div class="subcontainer">
-            <div>
-              <a href="https://github.com/permalik/c_curricula" target="_blank">c_curricula</a>
-            </div>
-            <div>
-              <a href="https://github.com/permalik/c_curricula" target="_blank">zig_curricula</a>
-            </div>
+            <a href="https://github.com/permalik/c_curricula" target="_blank">c_curricula</a>
+            <a href="https://github.com/permalik/c_curricula" target="_blank">zig_curricula</a>
             <a href="https://github.com/permalik/c_curricula" target="_blank">cpp_curricula</a>
             <a href="https://github.com/permalik/c_curricula" target="_blank">rust_curricula</a>
             <a href="https://github.com/permalik/c_curricula" target="_blank">go_curricula</a>
