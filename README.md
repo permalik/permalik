@@ -1,4 +1,4 @@
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=permalik&size_weight=0.5&count_weight=0.5&theme=noctis_minimus)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=permalik&size_weight=0.5&count_weight=0.5&theme=apprentice)
 
 <!--
 **permalik/permalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
