@@ -9,15 +9,18 @@
           display: flex;
           flex-flow: row nowrap;
         }
+        .subcontainer {
+          display: flex;
+          flex-flow: column nowrap;
+        }
         a {
-          display: inline-block;
           color: gold;
         }
       </style>
 
       <h2>Curricula</h2>
         <div class="container">
-          <div>
+          <div class="subcontainer">
             <a href="https://github.com/permalik/c_curricula" target="_blank">c_curricula</a>
             <a href="https://github.com/permalik/c_curricula" target="_blank">zig_curricula</a>
             <a href="https://github.com/permalik/c_curricula" target="_blank">cpp_curricula</a>
@@ -26,7 +29,7 @@
             <a href="https://github.com/permalik/c_curricula" target="_blank">java_curricula</a>
             <a href="https://github.com/permalik/c_curricula" target="_blank">csharp_curricula</a>
           </div>
-          <div>
+          <div class="subcontainer">
             <a href="https://github.com/permalik/c_curricula" target="_blank">swift_curricula</a>
             <a href="https://github.com/permalik/c_curricula" target="_blank">kotlin_curricula</a>
             <a href="https://github.com/permalik/c_curricula" target="_blank">python_curricula</a>
