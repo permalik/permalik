@@ -15,7 +15,6 @@
         }
       </style>
 
-      <div>
         <h2>Curricula</h2>
         <div class="container">
           <div class>
@@ -36,7 +35,6 @@
             <a href="https://github.com/permalik/c_curricula" target="_blank">haskell_curricula</a>
           </div>
         </div>
-      </div>
     </div>
   </foreignObject>
 </svg>
