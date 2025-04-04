@@ -5,7 +5,7 @@
         .container {
           display: flex;
           flex-flow: row nowrap;
-          font-color: gold;
+          color: gold;
         }
       </style>
 
