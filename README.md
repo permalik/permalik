@@ -1,4 +1,4 @@
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=permalik&size_weight=0.5&count_weight=0.5&theme=apprentice&card_width=600&langs_count=20&custom_title=Languages&layout=compact)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=permalik&size_weight=0.5&count_weight=0.5&theme=apprentice&card_width=1000&langs_count=20&custom_title=Languages&layout=compact)
 
 ## Links
 <div>
