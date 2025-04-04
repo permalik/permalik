@@ -11,7 +11,7 @@
         }
         .subcontainer {
           display: flex;
-          flex-flow: column nowrap;
+          flex-direction: column;
         }
         a {
           color: gold;
