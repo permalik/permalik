@@ -2,7 +2,7 @@
 
 | Language   | Repo                                                                     | Project              | Repo                                                                     |
 |------------|--------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------|
-| c          | [c_sandbox](https://github.com/permalik/c_sandbox)                   | Silverwing Simulator | [mirth](https://github.com/permalik/mirth) |
+| c          | [c_sandbox](https://github.com/permalik/c_sandbox)                   | Mirth                | [mirth](https://github.com/permalik/mirth) |
 | zig        | [zig_sandbox](https://github.com/permalik/zig_sandbox)               | Go Markdown Parser   | [go_markdown_parser](https://github.com/permalik/go_markdown_parser)     |
 | cpp        | [cpp_sandbox](https://github.com/permalik/cpp_sandbox)               | Auto                 | [auto](https://github.com/permalik/auto)                                 |
 | rust       | [rust_sandbox](https://github.com/permalik/rust_sandbox)             | Nix                  | [nix](https://github.com/permalik/nix)                                   |
