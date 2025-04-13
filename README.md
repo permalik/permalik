@@ -2,11 +2,11 @@
 
 | Language   | Repo                                                                     | Project              | Repo                                                                     |
 |------------|--------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------|
-| c          | [c_sandbox](https://github.com/permalik/c_sandbox)                   | Mirth                | [mirth](https://github.com/permalik/mirth) |
+| c          | [c_sandbox](https://github.com/permalik/c_sandbox)                   | Yoink Desktop        | [yyyoink_desktop](https://github.com/permalik/yyyoink_desktop)           |
 | zig        | [zig_sandbox](https://github.com/permalik/zig_sandbox)               | Go Markdown Parser   | [go_markdown_parser](https://github.com/permalik/go_markdown_parser)     |
-| cpp        | [cpp_sandbox](https://github.com/permalik/cpp_sandbox)               | Auto                 | [auto](https://github.com/permalik/auto)                                 |
-| rust       | [rust_sandbox](https://github.com/permalik/rust_sandbox)             | Nix                  | [nix](https://github.com/permalik/nix)                                   |
-| go         | [go_sandbox](https://github.com/permalik/go_sandbox)                 |                      |                                                                          |
+| cpp        | [cpp_sandbox](https://github.com/permalik/cpp_sandbox)               | Mirth                | [mirth](https://github.com/permalik/mirth)                               |
+| rust       | [rust_sandbox](https://github.com/permalik/rust_sandbox)             | Auto                 | [auto](https://github.com/permalik/auto)                                 |
+| go         | [go_sandbox](https://github.com/permalik/go_sandbox)                 | Nix                  | [nix](https://github.com/permalik/nix)                                   |
 | java       | [java_sandbox](https://github.com/permalik/java_sandbox)             |                      |                                                                          |
 | csharp     | [csharp_sandbox](https://github.com/permalik/csharp_sandbox)         |                      |                                                                          |
 | swift      | [swift_sandbox](https://github.com/permalik/swift_sandbox)           |                      |                                                                          |
