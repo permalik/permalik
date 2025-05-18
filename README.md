@@ -1,6 +1,6 @@
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=permalik&size_weight=0.5&count_weight=0.5&theme=apprentice&card_width=650&langs_count=20&custom_title=Languages&layout=compact)
 
-| Language   | Repo                                                                 | Project              | Repo                                                                     | Project | Repo                                     |
+| NixSandbox | Repo                                                                 | Project              | Repo                                                                     | Project | Repo                                     |
 |------------|----------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------|---------|------------------------------------------|
 | c          | [c_sandbox](https://github.com/permalik/c_sandbox)                   | Yoink Desktop        | [yyyoink_desktop](https://github.com/permalik/yyyoink_desktop)           | Auto    | [auto](https://github.com/permalik/auto) |
 | zig        | [zig_sandbox](https://github.com/permalik/zig_sandbox)               | Yoink Parse          | [yyyoink_parse](https://github.com/permalik/yyyoink_parse)               | Nix     | [nix](https://github.com/permalik/nix)   |
