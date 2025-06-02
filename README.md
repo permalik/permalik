@@ -2,7 +2,7 @@
 
 | NixSandbox | Repo                                                                 | Project              | Repo                                                                     | Project   | Repo                                                 |
 |------------|----------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------|-----------|------------------------------------------------------|
-| C          | [c-sandbox](https://github.com/permalik/c-sandbox)                   | Yoink Apple          | [yyyoink-apple](https://github.com/permalik/yyyoink-apple)               | Auto      | [auto](https://github.com/permalik/auto)             |
+| C          | [c-sandbox](https://github.com/permalik/c-sandbox)                   | Yoink Apple          | [yyyoink-apple](https://github.com/sunsplitstudio/yyyoink-apple)         | Auto      | [auto](https://github.com/permalik/auto)             |
 | Zig        | [zig-sandbox](https://github.com/permalik/zig-sandbox)               | Yoink Server         | [yyyoink-server](https://github.com/permalik/yyyoink-server)             | Nix       | [nix](https://github.com/permalik/nix)               |
 | C++        | [cpp-sandbox](https://github.com/permalik/cpp-sandbox)               | Yoink Portal         | [yyyoink-portal](https://github.com/permalik/yyyoink-portal)             |           |                                                      |
 | Rust       | [rust-sandbox](https://github.com/permalik/rust-sandbox)             | Haskell C Compiler   | [c-compiler](https://github.com/permalik/c-compiler)                     |           |                                                      |
